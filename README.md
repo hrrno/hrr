@@ -1,3 +1,5 @@
 # Health Registries For Research
 
-Ressurs og opplysninger for hele prosjektet.
+Resources and documentation for the entire project.
+
+![Dependencies](https://github.com/hrrno/hrr/blob/master/dependencies.jpg)
