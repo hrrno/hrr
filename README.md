@@ -12,6 +12,6 @@ An overview of which packages have dependencies within the project.
 
 ### Intra project dependencies (specified)
 
-![Specified dependencies](https://github.com/hrrno/hrr/blob/master/dependency_specified.jpg)
+![Specified dependencies](https://raw.githubusercontent.com/hrrno/hrr/master/dependency_specified.jpg)
 
 This image shows the specific points of dependency between the various work packages.
