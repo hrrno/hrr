@@ -1,5 +1,17 @@
 # Health Registries For Research
 
-Resources and documentation for the entire project.
+HRR is a research-oriented project aiming to improve access to central registry data to researchers and research institutions.
+
+
+### Intra project dependencies
 
 ![Dependencies](https://github.com/hrrno/hrr/blob/master/dependency_splash.jpg)
+
+An overview of which packages have dependencies within the project.
+
+
+### Intra project dependencies (specified)
+
+![Specified dependencies](https://github.com/hrrno/hrr/blob/master/dependency_specified.jpg)
+
+This image shows the specific points of dependency between the various work packages.
