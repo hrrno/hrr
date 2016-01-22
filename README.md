@@ -3,7 +3,7 @@
 HRR is a research-oriented project aiming to improve access to central registry data to researchers and research institutions.
 
 
-### Intra project dependencies
+### Intra project dependencies [HRR avhengighetsmatrise]
 
 ![Dependencies](https://github.com/hrrno/hrr/blob/master/dependency_splash.jpg)
 
